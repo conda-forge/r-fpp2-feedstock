@@ -3,7 +3,7 @@ About r-fpp2
 
 Home: https://pkg.robjhyndman.com/fpp2-package, https://github.com/robjhyndman/fpp2-package, https://OTexts.org/fpp2/
 
-Package license: GPL (>= 3)
+Package license: GPL-3.0-only
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-fpp2-feedstock/blob/master/LICENSE.txt)
 
