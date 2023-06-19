@@ -1,11 +1,11 @@
-About r-fpp2
-============
+About r-fpp2-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-fpp2-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pkg.robjhyndman.com/fpp2-package, https://github.com/robjhyndman/fpp2-package, https://OTexts.org/fpp2/
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-fpp2-feedstock/blob/main/LICENSE.txt)
 
 Summary: All data sets required for the examples and exercises  in the book "Forecasting: principles and practice"  by Rob J Hyndman and George Athanasopoulos <https://OTexts.org/fpp2/>.  All packages required to run the examples are also loaded.
 
